@@ -152,9 +152,7 @@ Calculated accuracy from the displayed cell counts:
 
 ## Demonstration Video
 
-**Video link:** `[Paste Google Drive demonstration link here]`
-
-Suggested filename: `SidakSingh_ESP32_Offline_Smart_Home_System`
+**Video link:** `https://vitacin-my.sharepoint.com/:v:/g/personal/sidak_singh2024_vitstudent_ac_in/IQBpCH_dQcPDRa6ddQgGfeqfASxRrF1xVzyzjoz_pZl7UEs?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Opax5v`
 
 ## References
 
